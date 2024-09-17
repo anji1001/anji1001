@@ -1,5 +1,12 @@
 ## Hi there 👋
+I am a dedicated frontend developer with 9 years of experience in the corporate sector, specializing in React and Angular frameworks. My skill set encompasses advanced proficiency in JavaScript, HTML, and CSS, along with experience in performance optimizations, state management using Redux and NgRx, and enhancing existing applications within my organization.
 
+Outside of my professional role, I am committed to continuous learning and skill development. I actively engage in personal projects where I explore and implement new technologies, driven by a deep curiosity and a passion for understanding the underlying logic of every solution I encounter.
+
+- 🔭 I’m currently working at Cisco
+- 📫 Skilled in : Angular, NGRX, React, Redux, HTML, CSS, JavaScript
+- 🌱 Competent in : Python, Docker, interactions with APIs and RESTful Services
+- 💬 Contact : www.linkedin.com/in/anjalipancholi01
 <!--
 **anji1001/anji1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
