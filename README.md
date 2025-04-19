@@ -3,7 +3,7 @@ I am a dedicated frontend developer with 9 years of experience in the corporate 
 
 Outside of my professional role, I am committed to continuous learning and skill development. I actively engage in personal projects where I explore and implement new technologies, driven by a deep curiosity and a passion for understanding the underlying logic of every solution I encounter.
 
-- 🔭 I’m currently working at Cisco
+- 🔭 I’m currently working at SentinelOne
 - 📫 Skilled in : Angular, NGRX, React, Redux, HTML, CSS, JavaScript
 - 🌱 Competent in : Python, Docker, interactions with APIs and RESTful Services
 - 💬 Contact : www.linkedin.com/in/anjalipancholi01
